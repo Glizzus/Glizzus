@@ -13,6 +13,7 @@ Phone: 256-813-8322
   <li>Java</li>
   <li>Object Oriented Programming</li>
   <li>HTML</li>
+</ul>
 
 ## __Current Projects__
 
