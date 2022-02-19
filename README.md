@@ -3,6 +3,11 @@
 I'm a learning developer and student at Auburn University.
 
 ## __Contact__
+calcruiseby@gmail.com
+256-813-8322
+
+
+
 
 Here are some ideas to get you started:
 
