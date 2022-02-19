@@ -3,7 +3,7 @@
 I'm a learning developer and student at Auburn University.
 
 ## __Contact__
-calcruiseby@gmail.com\n
+calcruiseby@gmail.com__
 256-813-8322
 
 
