@@ -9,6 +9,7 @@ Phone: 256-813-8322
 ## __Skills__
 
 <ul>
+  <li>Scala</li>
   <li>Python</li>
   <li>Java</li>
   <li>Object Oriented Programming</li>
@@ -18,15 +19,13 @@ Phone: 256-813-8322
 ## __Current Projects__
 
 <ul>
-  <li>Repertoire2 (spaced-repetition math study tool)</li>
   <li>WWEasy (analysis of WWE stock prices and viewership)</li>
 </ul>
   
 ## __Currently Learning__ 
   
 <ul>
-  <li>CSS</li>
-  <li>Functional Programming/Scala</li>
+  <li>CSS/JavaScript</li>
   <li>Data Structures and Algorithms</li>
   <li>Data Analysis</li>
 </ul>
